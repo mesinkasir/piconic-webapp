@@ -86,3 +86,14 @@ Work :
 
 Happy codding !!
 
+
+---------------------------------
+Buy me a coffee ☕️ ❤️ ✌🏻
+
+with moneygram or western union
+
+    BANK CENTRAL ASIA
+    ACCOUNT NO : 0181884109
+    ACCOUNT NAME : SUCI CHANIFAH
+    IBAN/SWIFT CODE : CENAIDJA
+

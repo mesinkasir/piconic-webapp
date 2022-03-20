@@ -1,37 +1,99 @@
-## Welcome to GitHub Pages
+# PICONIC MOBILE WEB APP
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/piconic-webapp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+------------------------
+### Mobile web template for pico cms with ionic
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Build all in one website and mobile app with piconic
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Mobile web template for pico cms with ionic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9QsnfsVncJqxCVjE2hwFO1ScU3tRclKt0RcNa8BF5fkFgIVx0Q9U9yEgR90Jbz7W1OnkFMqnO9fKl33TnxsUtlaEQ6Y9uOiQstIcZ4xhhSrRQH-CWS5RTPA52I5yjHeHXEZHkGviRGV-TvczekLOdZ-iBMPkB-J8_unMO3kGbndlOLTsj9kBwsrpL2w/s1920/piconic%20source%20code%20for%20built%20website%20mobilweb%20and%20android%20mobile%20application%20(2).jpg)
 
-```markdown
-Syntax highlighted code block
+Test drive demo 🚀 : [https://axcora.my.id/piconic/demo/](https://axcora.my.id/piconic/demo/)
 
-# Header 1
-## Header 2
-### Header 3
+Home page area 💻 : [https://axcora.my.id/piconic/](https://axcora.my.id/piconic/)
 
-- Bulleted
-- List
+Documentation : [https://www.hockeycomputindo.com/2022/03/buat-mobile-website-dan-android-app.html](https://www.hockeycomputindo.com/2022/03/buat-mobile-website-dan-android-app.html)
 
-1. Numbered
-2. List
+Desktop video  demo video : [https://youtu.be/FeqTiQHiDw0](https://youtu.be/FeqTiQHiDw0)
 
-**Bold** and _Italic_ and `Code` text
+Mobile web  demo video : [https://youtu.be/EMjBMnQktIo](https://youtu.be/EMjBMnQktIo)
 
-[Link](url) and ![Image](src)
-```
+Android app demo video : [https://youtu.be/uXqPOI2bC5s](https://youtu.be/uXqPOI2bC5s)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Design for 
++ Website
++ Mobile Web
++ Android App
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/piconic-webapp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---------------------------------
 
-### Support or Contact
+![Mobile web template for pico cms with ionic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpRTOsuKHHP7eCJwuPemVILwXZqwN4JmpIndNhgdgwHEBIpbEUbm186z72I6_T0X3GivtQYkRVJziWjy9U56W_YSsdDzMoNqN6nxUylLDl_R1dVXof5ddYYnZGxEyjbf14KRYk4Pm1qSxqEmXai69sbT3VYvW8HOIrbS9vJrA7VhDWF4BtogA_CU-Yew/s1920/piconic%20source%20code%20for%20built%20website%20mobilweb%20and%20android%20mobile%20application%20(3).jpg)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Recipes : 
++ Pico CMS
++ Ionic
++ Auto SEO
++ Axcora
+
+------------------------------------------
+
+Full for mobile Display
+
+![Mobile web template for pico cms with ionic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisZ50VFevCrtzOpL6FcwiT8XwnJZVd2tE-sQmT32O5nLzfqKX0d0vq0r3TxJVSng2rbUD-QSdtjIU4fIol5j5AsVpL9Ih9t87tlkDslpG1QTpUrLH2U8rVN00gnbIF2kiLamK3l2b4QtMFNDjS-bbE8kwK6OLeT3rxCuZ2o2xkHi4K1egGZUy6TbULVQ/s1920/piconic%20source%20code%20for%20built%20website%20mobilweb%20and%20android%20mobile%20application%20(1).jpg)
+
+--------------------------------------
+
+Piconic features 
+
+![Mobile web template for pico cms with ionic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigCS6A5L8uhnhG3YMVn1ZsqEIvRxz1e9suRAhBLw3ne6U-UbhExExawxcAf10tu43uWtjAbzSPk1rwOGnajrdzf6wsjewAJPZ6rsArV7A6KH_EDLqK5gLZZ_Qb2po3wQVhUxRIrDomO4nbEv--CXmZh5KNsZ8ZZPsZVKBbvPFoDHkol3M0Tb2K_kdeIg/s1366/Screenshot%202022-03-19%20at%2000-13-30%20Welcome%20to%20piconic%20Piconic.png)
+
+Dekstop version
+
+![Mobile web template for pico cms with ionic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3oYuTe6RSc4ckxI3yGVWwptGgPAVsj9f8vfGgGOOlddvVEephzTZG-aZEDp3YANHoVPtzGM5h4Z1OnF2iQWTLblAvKotDXAMq_eJZKaaUeQz45Wg98VwKs-3tn3Q7NczeIowQH3puqnyxpojQsmNnvO3qH8-7bZo0Ddcud7GbaOAuN34Iypp4RaJk7A/s1366/Screenshot%202022-03-19%20at%2000-12-01%20Build%20bunlde%20android%20app%20with%20piconic%20Piconic.png)
+
+Article page
+
+![Mobile web template for pico cms with ionic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGVIyOjUrkr7uGNMSDVSE1SlpSMKnLS81FZzFBIN1Es7ln-PcmD9PGrEiuvpW0Xd2Gq--IWkmM9Oz3bjfkBasZfCWKKM7clmGP910JRbXPiX3j32M3Z7RMVkg73AVl_2DSmbPGAu87ncxt8Wm3J-md6IZ6E4SuOGMw3iKZMOCr2YORy8GIO_xc-215-w/s1366/Screenshot%202022-03-19%20at%2000-13-10%20Modern%20design%20with%20axcorapico%20Piconic.png)
+
+Grid mode and menu display
+
+![Mobile web template for pico cms with ionic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNDLELTgVjZwkQD7KorA-Wq-y7bdKA3JkvOnLuHE2_QY2lKDhNiGM2wVZRWOL6_zQhca-R8kcXqMcfC-BAoEEmjbh8Stm_ks4Q4uHjPJcitIEIqdxI2OeCAZ8UTiauu379peCJtEeMjwgYd1rmb-AbJGm0LeRfBUis7DIcUpVxAJBSDgiQ35yT69PRaQ/s682/Screenshot%202022-03-19%20at%2000-08-25%20Welcome%20to%20piconic%20Piconic.png)
+
+Mobile display 
+
+![Mobile web template for pico cms with ionic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0Jg9vmEIeG7L88_12t_4u6JEbZ9asOgC5StX_G5JHSFcxXNQoQipecUhwOjdqZ2NU4BAOPFr32OoQ_lQReN8ZvWEWJi8VFUIs4U7_9O2ZufiTizF4TRb4R_cdQnuybP3s5t-b9wqfPrXA0ZP9w8hnFJUGlovp8alIHEjW0dmv_rUR7HxR1zoU_LHtnA/s666/Screenshot%202022-03-19%20at%2000-11-01%20Documentation%20Piconic.png)
+
+Mobile display 1 
+
+![Mobile web template for pico cms with ionic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNm6WaVOLj8VA3IPeoLkglsB9zzumndojlAbVU3iwvZB4YlQezRUasm9-Mt_RziPBlWOgjn2iv3H5MnfxmgXMf9kQCDw299s85HZsSQcy6K6EFjGQ_flvOgd-p89MZqxX9-ZJhZUwHpCleNcFk0QBrEqXN3v4eztQMl8NwrEfDNAuqGR_ED86Vms_tbw/s666/Screenshot%202022-03-19%20at%2000-11-37%20Build%20bunlde%20android%20app%20with%20piconic%20Piconic.png)
+
+Mobile display 2
+
+------------------------------------------
+
+Installation need to download and install
++ Download source code and upload and your cloud shared hosting
++ Login with admin area visit on yourweb.com/pico_edit use password axcora
++ Read doc : [https://www.hockeycomputindo.com/2022/03/buat-mobile-website-dan-android-app.html](https://www.hockeycomputindo.com/2022/03/buat-mobile-website-dan-android-app.html)
+
+
+Work :
++ login admin panel with yourweb.com/pico_edit and create update edit or delete content
++ markdown support
+
+
+
+Happy codding !!
+
+
+---------------------------------
+Buy me a coffee ☕️ ❤️ ✌🏻
+
+with moneygram or western union
+
+    BANK CENTRAL ASIA
+    ACCOUNT NO : 0181884109
+    ACCOUNT NAME : SUCI CHANIFAH
+    IBAN/SWIFT CODE : CENAIDJA
+

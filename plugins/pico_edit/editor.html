@@ -2,9 +2,14 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title>Pico Edit</title>
+  <title>Piconic Admin</title>
   <link rel="stylesheet" href="{{ base_url }}/plugins/pico_edit/styles.css" type="text/css" />
   <meta name="robots" content="noindex, nofollow" />
+  <link rel="icon" type="image/x-icon" href="data:image/png;base64,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" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+<style>a:link {
+  text-decoration: none;
+}</style>
 </head>
 <body>
   <div id="cover"></div>
@@ -13,35 +18,31 @@
     <div class="popupcontent">Loading...</div>
   </div>
   <div id="saving">Saving...</div>
-
-  <div class="controls">
-    <a href="#" class="savebutton btn icon-floppy-disk" title="Save"></a>
-    <a href="#" class="new btn icon-plus marg-r5" title="New"></a>
-    <a href="#" class="pushpullbutton btn icon-download2 marg-r5" title="Git Push/Pull"></a>
-    <a href="#" class="commitbutton btn icon-upload2 marg-r5" title="Git Commit"></a>
-    <a href="#" class="clearcachebutton btn icon-loop2 marg-r5" title="Clear Cache"></a>
-    <a href="{{ pico_edit_url }}/logout" class="logout btn icon-switch" title="Logout"></a>
-  </div>
+  
+<div class="row">
+    <div class="col-12 col-md-4">
+  <nav class="controls navbar justify-content-center p-0" >
+    <a href="#" class="new btn icon-plus marg-r5 btn-sm" title="New"></a>
+    <a href="#" class="savebutton btn icon-floppy-disk btn btn-sm" title="Save"></a>
+    <a href="#" class="clearcachebutton btn icon-loop2 marg-r5 btn-sm" title="Clear Cache"></a>
+    <a href="{{ pico_edit_url }}/logout" class="logout btn icon-switch btn-sm" title="Logout"></a>
+  </nav>
   <div id="sidebar">
-    <ul class="nav0">
-      {% if config.pico_edit_options %}
-      <li><a href="#" data-url="conf" class="post page-options"><span class="icon-equalizer2 marg-r5" aria-hidden="true"></span><i>config options</i></a></li>
+    <ul class="nav list-group list-group-flush p-1">
+         {% if config.pico_edit_404 %}
+      <li class="list-group-item"><a href="#" data-url="/404" class="post page-404"><span class="icon-file-empty marg-r5" aria-hidden="true"></span><i>404</i></a></li>
       {% endif %}
-      {% if config.pico_edit_404 %}
-      <li><a href="#" data-url="/404" class="post page-404"><span class="icon-file-empty marg-r5" aria-hidden="true"></span><i>404</i></a></li>
-      {% endif %}
-    </ul>
-    <ul class="nav">
     {% for page in pages %}
-      <li><a href="#" data-url="{{ page.id }}" class="post"><span class="icon-file-text2 marg-r5" aria-hidden="true"></span>/{{ page.id }}</a>
+      <li class="list-group-item"><a href="#" data-url="{{ page.id }}" class="post"><span class="icon-file-text2 marg-r5" aria-hidden="true"></span>/{{ page.id }}</a>
       <a href="{{ page.url }}" target="_blank" class="view" title="View"><span class="icon icon-eye" aria-hidden="true"></span></a>
       <a href="#" data-url="{{ page.id }}" class="delete" title="Delete"><span class="icon icon-bin" aria-hidden="true"></span></a></li>
     {% endfor %}
     </ul>
   </div>
+  </div>
 
-  <div id="main">
-    <div id="epiceditor"></div>
+  <div id="main" class="col-md-8 p-3">
+    <div id="epiceditor" class="p-3 border"></div>
 
     <script src="{{ base_url }}/plugins/pico_edit/libs/jquery-1.12.3.min.js"></script>
     <!-- <script src="{{ base_url }}/plugins/pico_edit/top_up-1.7.2/top_up-min.js"></script> -->
@@ -243,6 +244,8 @@
       }
     });
     </script>
+    
+  </div>
   </div>
 </body>
 </html>

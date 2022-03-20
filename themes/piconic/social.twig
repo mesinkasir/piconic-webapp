@@ -1,0 +1,18 @@
+<ion-col>
+      <div>
+<ion-card color="primary">
+     <ion-card-header>
+    <ion-card-title>Connect</ion-card-title>
+  </ion-card-header>
+  {% for social in pages["_meta"].meta.social %}  
+  <ion-item href="{{ social.url }}" class="ion-activated">
+      <ion-icon name="heart-circle-outline" color="primary"></ion-icon>&nbsp;
+    <ion-label>{{ social.title }}</ion-label>
+  </ion-item>
+   {% endfor %}
+</ion-card>
+      </div>
+</ion-col>
+
+</ion-row>
+</ion-grid>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+  <meta charset="utf-8" />
+  <title>Login</title>
+  <link rel="stylesheet" href="{{ base_url }}/plugins/pico_edit/styles.css" type="text/css" />
+  <meta name="robots" content="noindex, nofollow" />
+</head>
+<body>
+  <form id="login-form" method="post" action="">
+    {% if login_error %}<p class="error">{{ login_error }}</p>{% endif %}
+    <div>
+      <label for="password">Password:</label>
+    </div>
+    <div>
+      <input type="password" name="password" id="password" autofocus/>
+      <input type="submit" value="Login" class="btn"/>
+    </div>
+  </form>
+</body>
+</html>

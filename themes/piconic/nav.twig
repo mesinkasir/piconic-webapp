@@ -1,0 +1,7 @@
+  <ion-tab-bar class="ion-justify-content-around" slot="bottom" color="primary">
+      {% for navbar in pages["_meta"].meta.navbar %}  
+    <ion-tab-button href="{{ navbar.url }}">
+      <ion-icon name="{{ navbar.icon }}"></ion-icon>
+    </ion-tab-button>
+     {% endfor %}
+  </ion-tab-bar>

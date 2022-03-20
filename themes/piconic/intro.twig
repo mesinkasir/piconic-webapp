@@ -1,0 +1,16 @@
+<ion-col>
+      <div>
+    <ion-card color="primary">
+        <center>
+  <ion-card-header>
+      <ion-avatar><img src="{{ pages["_meta"].meta.logo|url }}" width="80" alt=""/></ion-avatar>
+    <ion-card-subtitle>{{ pages["_meta"].meta.tagline|markdown }}</ion-card-subtitle>
+    <ion-card-title>{{ site_title }}</ion-card-title>
+  </ion-card-header>
+  <ion-card-content>
+      {{ pages["_meta"].meta.slogan }}
+     </ion-card-content>
+     </center>
+</ion-card>
+</div>
+</ion-col>

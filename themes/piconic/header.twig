@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <title>{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}</title>
+<meta content='{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}' property='og:title'/>
+<meta content='{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}' name='facebook:title'/>
+<meta content='{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }} ' name='twitter:title'/>
+<meta content='{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}' property='og:site_name'/>
+<meta content='{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}' name='keywords'/>
+<meta content='website' property='og:type'/>
+  {% if meta.description %}
+        <meta name="description" content="{{ meta.description }}" />
+<meta content='{{ meta.description }}' property='facebook:description'/>
+<meta content='{{ meta.description }}' name='twitter:description'/>
+    {% endif %}
+    {% if meta.cover %}
+<meta content='{{ meta.cover }}' name='facebook:image'/>
+<meta content='{{ meta.cover }}' name='twitter:image'/>
+    <link rel="icon" type="image/x-icon" href="{{ meta.cover }}" />
+{% endif %}
+<meta content='https://axcora.com' property='og:author'/>
+<meta content='https://twitter.com/hockeycomp' property='twitter:author'/>
+<meta content='@hockeycomp' name='twitter:site'/>
+<meta content='summary_large_image' name='twitter:card'/>
+<meta content='https://www.facebook.com/mesinkasircomplete' property='facebook:author'/>
+<meta content='index, follow' name='robots'/>
+{% if current_page %}
+        <link rel="canonical" href="{{ current_page.url }}" />
+    {% endif %}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@ionic/core/css/ionic.bundle.css" />
+<link rel="stylesheet" href="{{ theme_url }}/style.css" />
+</head>
+<body>
+
+<div class="container">

@@ -1,0 +1,18 @@
+<ion-grid>
+<ion-row>
+    
+<ion-col size="12" size-sm>
+      <div>
+<ion-card color="primary">
+     <ion-card-header>
+    <ion-card-title>Menu</ion-card-title>
+  </ion-card-header>
+  {% for page in pages(depthOffset=-1) if page.title and not page.hidden %}
+  <ion-item href="{{ page.url }}" class="ion-activated">
+      <ion-icon name="logo-ionic" color="primary"></ion-icon>&nbsp;
+    <ion-label>{{ page.title }}</ion-label>
+  </ion-item>
+   {% endfor %}
+</ion-card>
+      </div>
+    </ion-col>

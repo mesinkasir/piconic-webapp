@@ -12,4 +12,4 @@ desktop.ini
 
 # Composer
 /composer.phar
-/vendor
+# /vendor
